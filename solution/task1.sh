@@ -1,4 +1,3 @@
-cd ..  
 mkdir dataCur 
 mkdir dataCur/tar
 mkdir dataCur/zip 
